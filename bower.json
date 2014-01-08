@@ -1,0 +1,17 @@
+{
+	"name": "wdReset",
+	"version": "0.1.0",
+	"homepage": "http://wiredot.com",
+	"authors": [
+		"Piotr Soluch <psoluch@wiredot.com>"
+	],
+	"description": "Simple SCSS Reset",
+	"main": "wdReset.scss",
+	"keywords": [
+		"scss",
+		"sass",
+		"css",
+		"reset"
+	],
+	"license": "MIT"
+}
