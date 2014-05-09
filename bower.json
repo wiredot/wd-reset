@@ -1,6 +1,6 @@
 {
-	"name": "wdReset",
-	"version": "0.1.0",
+	"name": "wd-reset",
+	"version": "1.0.0",
 	"homepage": "http://wiredot.com",
 	"authors": [
 		"Piotr Soluch <psoluch@wiredot.com>"
@@ -13,5 +13,5 @@
 		"css",
 		"reset"
 	],
-	"license": "MIT"
+	"license": "GPL"
 }

@@ -6,7 +6,7 @@ a, abbr, acronym, address, applet, area, article, aside, audio, b, base, basefon
 	border: none;
 	outline: none;
 	font-size: 100%;
-	vertical-align: baseline;
+	vertical-align: top;
 	background: none;
 	font-weight: normal;
 	text-align: left;
@@ -43,7 +43,7 @@ input[type="checkbox"] {
 	vertical-align: bottom;
 }
 
-input[type=button],input[type=submit],button {
+input[type=button], input[type=submit],button {
 	cursor: pointer;
 }
 
