@@ -1,17 +1,25 @@
 {
 	"name": "wd-reset",
-	"version": "1.0.0",
-	"homepage": "http://wiredot.com",
-	"authors": [
-		"Piotr Soluch <psoluch@wiredot.com>"
-	],
 	"description": "Simple SCSS Reset",
-	"main": "wdReset.scss",
+	"homepage": "http://wiredot.com/labs",
+	"main": [
+		"wd-reset.scss"
+	],
 	"keywords": [
 		"scss",
 		"sass",
 		"css",
 		"reset"
 	],
-	"license": "GPL"
+	"authors": [
+		"Piotr Soluch <psoluch@wiredot.com>"
+	],
+	"license": "GPL",
+	"ignore": [
+		"**/.*"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:wiredot/wd-reset.git"
+	}
 }
