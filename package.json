@@ -1,6 +1,6 @@
 {
   "name": "wd-reset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css reset library",
   "repository": "git@github.com:wiredot/wd-reset.git",
   "author": "Piotr Soluch <psoluch@wiredot.com>",
